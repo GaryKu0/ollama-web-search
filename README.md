@@ -19,8 +19,8 @@
     </ul>
     <h2>Installation</h2>
     <p>1. Clone the repository:</p>
-    <pre><code>git clone https://github.com/&lt;your-username&gt;/ChatBot-WebSearch.git
-cd ChatBot-WebSearch
+    <pre><code>git clone https://github.com/garyku0/ollama-web-search.git
+cd ollama-web-search
     </code></pre>
     <p>2. Install the required libraries:</p>
     <pre><code>pip install ollama requests
