@@ -1,7 +1,7 @@
 {
-  "model": "yefx/minicpm3_4b",
+  "model": "llama3",
   "searxng_instances": [
-    "https://searx.be/search"
+    "https://searx.perennialte.ch/search"
   ],
   "max_results": 8,
   "timeout": 10,
