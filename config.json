@@ -1,0 +1,12 @@
+{
+  "model": "yefx/minicpm3_4b",
+  "searxng_instances": [
+    "https://searx.be/search"
+  ],
+  "max_results": 8,
+  "timeout": 10,
+  "max_retries": 3,
+  "history_file": "search_history.json",
+  "enable_colors": true,
+  "streaming_delay": 0.02
+}
