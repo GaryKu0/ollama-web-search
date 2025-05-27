@@ -175,3 +175,5 @@ Feel free to open issues or submit pull requests for:
 ## 📄 License
 
 This project is licensed under the MIT License.
+
+[![Star History Chart](https://api.star-history.com/svg?repos=GaryKu0/ollama-web-search&type=Date)](https://www.star-history.com/#GaryKu0/ollama-web-search&Date)
